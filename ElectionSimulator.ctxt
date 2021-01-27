@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ElectionSimulator
+comment0.text=\r\n\ This\ class\ simulates\ a\ fake\ election\ in\ a\ fake\ country.\r\n\r\n\ @Kelachi\ Charles-Beke(201651312)\ and\ Divine\ Badibanga(201765203)\r\n\ @version\ (11.18.2019)\r\n
+comment1.params=country\ votes
+comment1.target=ElectionSimulator(ElectionSetup,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ElectionSimulator\r\n
+comment2.params=
+comment2.target=void\ electionNight()
+comment2.text=\r\n\ electionNight\ runs\ the\ simulation\r\n
+numComments=3

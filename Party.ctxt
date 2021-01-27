@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Party
+comment0.text=\r\n\ This\ class\ creates\ a\ party\r\n\r\n\ @author\ Kelachi\ Charles-Beke(201651312)\ and\ Divine\ Badibanga(201765203)\r\n\ @version\ (11.16.2019)\r\n
+comment1.params=name
+comment1.target=Party(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Party\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Returns\ the\ name\ of\ the\ party\r\n\ \r\n\ @return\ String\ the\ name\ of\ the\ party\r\n
+comment3.params=rep
+comment3.target=void\ addCandidate(Candidate)
+comment3.text=\r\n\ Adds\ a\ candidate\ to\ a\ party\r\n\ \r\n\ @param\ Candidate\ rep\ the\ representative\r\n
+comment4.params=name
+comment4.target=Candidate\ getCandidate(java.lang.String)
+comment4.text=\r\n\ Returns\ a\ candidate\ belonging\ to\ the\ party\r\n\ \r\n\ @param\ String\ name\ the\ name\ of\ the\ candidate\r\n\ @return\ Candidate\ the\ candidate\ belonging\ to\ a\ party\r\n
+comment5.params=
+comment5.target=Candidate\ randCandidate()
+comment5.text=\r\n\ Returns\ a\ random\ candidate\ from\ the\ party\r\n\ \r\n\ @return\ Candidate\ a\ randomly\ picked\ candidate\r\n
+comment6.params=
+comment6.target=void\ printCandidates()
+comment6.text=\r\n\ Prints\ all\ the\ candidates\r\n
+numComments=7

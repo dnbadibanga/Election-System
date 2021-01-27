@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Country
+comment0.text=\r\n\ The\ Country\ class\ creates\ a\ country\r\n\r\n\ @author\ Kelachi\ Charles-Beke(201651312)\ and\ Divine\ Badibanga(201765203)\r\n\ @version\ (11.16.2019)\r\n
+comment1.params=name
+comment1.target=Country(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Country\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Returns\ the\ name\ of\ the\ country\r\n\ \r\n\ @return\ the\ name\ of\ the\ country\r\n
+comment3.params=name
+comment3.target=void\ addProvince(Province)
+comment3.text=\r\n\ Adds\ a\ province\ to\ the\ country\r\n\ \r\n\ @param\ Province\ name\ the\ name\ of\ the\ province\r\n
+comment4.params=name
+comment4.target=Province\ getProvince(java.lang.String)
+comment4.text=\r\n\ Returns\ a\ province\r\n\ \r\n\ @param\ String\ name\ the\ name\ of\ the\ province\r\n\ @return\ Province\ the\ province\ object\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getProvinces()
+comment5.text=\r\n\ Returns\ an\ arraylist\ of\ provinces\r\n\ \r\n\ @return\ ArrayList\ list\ of\ provinces\r\n
+comment6.params=
+comment6.target=Province\ randProvince()
+comment6.text=\r\n\ Returns\ a\ random\ province\r\n\ \r\n\ @return\ Province\ a\ randomly\ picked\ province\r\n
+comment7.params=
+comment7.target=void\ vote()
+comment7.text=\r\n\ Votes\ for\ a\ specific\ candidate,\ in\ a\ particular\ party\ and\ province.\r\n
+numComments=8

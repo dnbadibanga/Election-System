@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Candidate
+comment0.text=\r\n\ This\ class\ creates\ a\ candidate\ representative\r\n\r\n\ @author\ Kelachi\ Charles-Beke(201651312)\ and\ Divine\ Badibanga(201765203)\r\n\ @version\ (11.16.2019)\r\n
+comment1.params=name\ party
+comment1.target=Candidate(java.lang.String,\ Party)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Candidate\r\n\ \r\n\ @param\ String\ name\ the\ name\ of\ the\ candidate\r\n\ @param\ Party\ party\ the\ party\ the\ candidate\ belongs\ to\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Returns\ the\ name\ of\ the\ candidate\r\n\ \r\n\ @return\ String\ the\ name\ of\ the\ candidate\r\n
+comment3.params=
+comment3.target=Party\ getParty()
+comment3.text=\r\n\ Returns\ the\ party\ of\ the\ candidate\r\n\ \r\n\ @return\ Party\ the\ party\ of\ the\ candidate\r\n
+comment4.params=
+comment4.target=void\ vote()
+comment4.text=\r\n\ Increment\ the\ vote\ count\r\n
+comment5.params=
+comment5.target=int\ getVoteCount()
+comment5.text=\r\n\ Return\ the\ vote\ count\r\n\ \r\n\ @return\ int\ the\ vote\ count\r\n
+numComments=6

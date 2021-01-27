@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ElectionSetup
+comment0.text=\r\n\ This\ class\ creates\ a\ fictional\ country,\ sets\ up\ provinces,\ parties,\ and\ \r\n\ candidates.\r\n\r\n\ @author\ Kelachi\ Charles-Beke(201651312)\ and\ Divine\ Badibanga(201765203)\r\n\ @version\ (11.16.2019)\r\n
+comment1.params=
+comment1.target=ElectionSetup()
+comment2.params=
+comment2.target=void\ createProvinces()
+comment2.text=\r\n\ create\ the\ provinces\r\n
+comment3.params=
+comment3.target=void\ createParties()
+comment3.text=\r\n\ create\ the\ parties\r\n
+comment4.params=
+comment4.target=void\ createCandidates()
+comment4.text=\r\n\ create\ the\ candidates\r\n\ \ \ \ \ \ \ \r\n
+comment5.params=
+comment5.target=void\ createRepresentatives()
+comment5.text=\r\n\ add\ candidates\ to\ provinces\ that\ they\ will\ run\ in\r\n
+comment6.params=
+comment6.target=void\ printInfo()
+comment6.text=\r\n\ print\ the\ info\ of\ all\ the\ runners\r\n
+comment7.params=
+comment7.target=Country\ getCountry()
+comment7.text=\r\n\ return\ the\ country\r\n\ \r\n\ @return\ Country\ the\ country\ \r\n
+comment8.params=
+comment8.target=void\ tally()
+comment8.text=\r\n\ tally\ all\ the\ votes\ using\ the\ d'Hondt\ system\ and\ show\ the\ results\r\n
+numComments=9
